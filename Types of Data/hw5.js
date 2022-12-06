@@ -6,14 +6,14 @@ function camelize(str) {
     );
 }
 // Task 2
-let arr = [5, 3, 8, 1];
+let arr1 = [5, 3, 8, 1];
 function filtered(arr, a, b) {
   return arr.filter((item) => item >= a && item <= b);
 }
 
 //Task 3
 //Task 4
-let arr = [5, 2, 1, -10, 8];
+let arr2 = [5, 2, 1, -10, 8];
 arr.sort((a,b) => b-a)
 
 //Task 5 
